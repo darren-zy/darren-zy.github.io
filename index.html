@@ -422,7 +422,7 @@ html, * {-webkit-user-select:text!important; -moz-user-select:text!important;}
 </style>
 </head>
 
-<body>
+<body oncontextmenu="return false" onselectstart="return false">
 <canvas id="sakura" width="400" height="920"></canvas>
 <div id="content" style="z-index: 2;position: relative;"> <br>
   <div class="search_part"> <br>
@@ -1689,3 +1689,6 @@ window.addEventListener('load', function(e) {
     w['r'+r] = w['r'+r] || w['webkitR'+r] || w['mozR'+r] || w['msR'+r] || w['oR'+r] || function(c){ w.setTimeout(c, 1000 / 60); };
 })(window, 'equestAnimationFrame');
 </script> 
+
+
+
