@@ -1,0 +1,6 @@
+User-agent: baiduspider
+Disallow: 
+User-agent: *
+Disallow: 
+Sitemap: https://www.one3.cn/sitemap.xml
+Sitemap: https://www.one3.cn/sitemap_baidu.xml
