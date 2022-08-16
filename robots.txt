@@ -2,5 +2,5 @@ User-agent: baiduspider
 Disallow: 
 User-agent: *
 Disallow: 
-Sitemap: https://www.one3.cn/sitemap.xml
-Sitemap: https://www.one3.cn/sitemap_baidu.xml
+Sitemap: https://www.jjfjj.com/sitemap.xml
+Sitemap: https://www.jjfjj.com/sitemap_baidu.xml
